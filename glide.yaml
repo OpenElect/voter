@@ -1,0 +1,6 @@
+package: github.com/OpenElect/voter
+import:
+- package: github.com/go-yaml/yaml
+  version: ^2.2.1
+- package: github.com/urfave/cli
+  version: ^1.20.0
