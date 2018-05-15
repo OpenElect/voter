@@ -2,6 +2,7 @@
  *
  * Copyright (C) 2018  OpenElect
  *     Fin Christensen <fin.christensen@st.ovgu.de>,
+ *     Johann Wagner <johann.wagner@st.ovgu.de>,
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -287,6 +288,10 @@ Authors:
 		{
 			Name: "Fin Christensen",
 			Email: "fin.christensen@st.ovgu.de",
+		},
+		{
+			Name: "Johann Wagner",
+			Email: "johann.wagner@st.ovgu.de",
 		},
 	}
 	app.Copyright = "Copyright (c) 2018  OpenElect"
